@@ -1,0 +1,15 @@
+* { box-sizing: border-box; }
+
+.body-content {
+    background-color: aqua;
+    width: 250px;
+    height: 150px;
+    margin: auto;
+}
+
+.masukan {
+    width: 100%;
+    text-align: right;
+}
+
+.operator { clear: both; }
